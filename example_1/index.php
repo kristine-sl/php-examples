@@ -1,5 +1,5 @@
 <!doctype html>
 <html>
 	<head></head>
-	<body></body>
+	<body><?php echo 'Hello' ?></body>
 </html>
